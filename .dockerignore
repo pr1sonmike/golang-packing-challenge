@@ -1,0 +1,15 @@
+# Binaries
+main
+
+# Vendor directory
+vendor
+
+# Go test binaries
+*.test
+
+# IDE files
+.idea
+.vscode
+
+# OS generated files
+.DS_Store
